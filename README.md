@@ -1,9 +1,22 @@
 # Kömpose2D
 A minimal game library based on Compose, written in Kotlin and inspired by Love2D
 
+[![](https://jitpack.io/v/FireZenk/kompose2d.svg)](https://jitpack.io/#FireZenk/kompose2d)
+
 ## Usage
+```groovy
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
 ```kotlin
-implementation "com.firezenk:kompose2d:0.0.1"
+dependencies {
+    implementation 'com.github.FireZenk:kompose2d:main-SNAPSHOT'
+}
 ```
 
 ## How to
