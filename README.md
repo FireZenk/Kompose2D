@@ -1,1 +1,1 @@
-# Kompose2D
+# KÖmpose2D
